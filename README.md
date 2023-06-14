@@ -13,6 +13,6 @@
                .@@%@@@# =*:    +@             WM Theme: ClassiK
               . .   :-:      .*@@. -%*++.     Theme: NiTROUS
              +@#           :*@@@@##@@@@@@     Icons: Numix Circle
-            =@@@*.     .-*@@@@@@%=+##****     CPU: Intel i7-6800K
-           =@@@@@@*++#%@%*#@@@@@@%@=::=*#     GPU: GeForce 1080 Ti
+            =@@@*.     .-*@@@@@@%=+##****     CPU: Intel i5-13600KF
+           =@@@@@@*++#%@%*#@@@@@@%@=::=*#     GPU: GeForce 2070 Super
         :+%@@@@@@@%-*@@@*:#@@@@@@@@%@@@@@     Memory: Wish it was better
