@@ -8,11 +8,11 @@
       -*%@@@@@@@@@@@@@@@@@@@@+  *@@@*         OS: Arch btw
           .:--%@@@@@@@@@@@@@@* :@@@@=         Uptime: Generation X
               @@@@@@@@@@@@@@@+ +@@%-          Packages: 1
-              %@%*+==+%@@@@@@. .+-            DE: KDE Plasma
+              %@%*+==+%@@@@@@. .+-            DE: KDE Plasma 6
                .:=++=- -@@@%-   -             WM: KWin
-               .@@%@@@# =*:    +@             WM Theme: ClassiK
+               .@@%@@@# =*:    +@             WM Theme: Klassy
               . .   :-:      .*@@. -%*++.     Theme: NiTROUS
              +@#           :*@@@@##@@@@@@     Icons: Numix Circle
             =@@@*.     .-*@@@@@@%=+##****     CPU: Intel i5-13600KF
            =@@@@@@*++#%@%*#@@@@@@%@=::=*#     GPU: GeForce 2070 Super
-        :+%@@@@@@@%-*@@@*:#@@@@@@@@%@@@@@     Memory: Wish it was better
+        :+%@@@@@@@%-*@@@*:#@@@@@@@@%@@@@@     Memory: Could be better
