@@ -12,7 +12,7 @@
                .:=++=- -@@@%-   -             WM: KWin
                .@@%@@@# =*:    +@             WM Theme: Klassy
               . .   :-:      .*@@. -%*++.     Theme: NiTROUS
-             +@#           :*@@@@##@@@@@@     Icons: Numix Circle
+             +@#           :*@@@@##@@@@@@     Icons: Papirus-Dark
             =@@@*.     .-*@@@@@@%=+##****     CPU: Intel i5-13600KF
            =@@@@@@*++#%@%*#@@@@@@%@=::=*#     GPU: AMD Radeon 9070
-        :+%@@@@@@@%-*@@@*:#@@@@@@@@%@@@@@     Memory: 128gb DDR4 3200 MT/s
+        :+%@@@@@@@%-*@@@*:#@@@@@@@@%@@@@@     Memory: 64gb DDR4 3600 MT/s
